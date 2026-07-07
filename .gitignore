@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Xcode — user-specific state (keep shared schemes / xcshareddata tracked)
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+# Xcode — build products & derived data
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.moved-aside
+timeline.xctimeline
+playground.xcworkspace
+
+# Xcode — legacy per-user project files
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved

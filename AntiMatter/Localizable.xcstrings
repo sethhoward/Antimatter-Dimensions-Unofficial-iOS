@@ -1,0 +1,3841 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " (cap: %@ %@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " (cap: %1$@ %2$@)"
+          }
+        }
+      }
+    },
+    " %@" : {
+
+    },
+    " | " : {
+
+    },
+    " Galaxies.  " : {
+
+    },
+    " or " : {
+
+    },
+    "— %@" : {
+
+    },
+    "!" : {
+
+    },
+    "?" : {
+
+    },
+    "...eons stacked on eons..." : {
+
+    },
+    "\"%@\"" : {
+
+    },
+    "(" : {
+
+    },
+    "(%lld/%lld)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "(%1$lld/%2$lld)"
+          }
+        }
+      }
+    },
+    "(+%@%%/s)" : {
+
+    },
+    "(avg %@ speed)" : {
+
+    },
+    "(Completed)" : {
+
+    },
+    "(Details hidden, tap to unhide)" : {
+
+    },
+    "(Double tap to hide)" : {
+
+    },
+    "(Line %lld)" : {
+
+    },
+    "(No data — make sure you are Doomed.)" : {
+
+    },
+    "(real %@)" : {
+
+    },
+    "(Tap to see details)" : {
+
+    },
+    "(This challenge is already fully completed)" : {
+
+    },
+    ")" : {
+
+    },
+    "/ %@" : {
+
+    },
+    "#%@" : {
+
+    },
+    "#%lld" : {
+
+    },
+    "%" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@  %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@  %2$@"
+          }
+        }
+      }
+    },
+    "%@ - a boost depending on Glyph Sacrifice" : {
+
+    },
+    "%@ - an additional secondary effect" : {
+
+    },
+    "%@ - formula drastically improved" : {
+
+    },
+    "%@ — Level %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ — Level %2$lld"
+          }
+        }
+      }
+    },
+    "%@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "%@ (Cost: %lld TT)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ (Cost: %2$lld TT)"
+          }
+        }
+      }
+    },
+    "%@ / %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@ %3$@"
+          }
+        }
+      }
+    },
+    "%@ ➔ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ ➔ %2$@"
+          }
+        }
+      }
+    },
+    "%@ AM" : {
+
+    },
+    "%@ BH" : {
+
+    },
+    "%@ Black Hole" : {
+
+    },
+    "%@ Dimension Autobuyer" : {
+
+    },
+    "%@ Dimensions: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ Dimensions: %2$@"
+          }
+        }
+      }
+    },
+    "%@ effects have been slightly reduced due to a softcap" : {
+
+    },
+    "%@ EP" : {
+
+    },
+    "%@ eternities" : {
+
+    },
+    "%@ Eternity %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ Eternity %2$@"
+          }
+        }
+      }
+    },
+    "%@ for a Replicanti Galaxy" : {
+
+    },
+    "%@ Glyph of %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ Glyph of %2$@"
+          }
+        }
+      }
+    },
+    "%@ infinities" : {
+
+    },
+    "%@ Infinity %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ Infinity %2$@"
+          }
+        }
+      }
+    },
+    "%@ IP" : {
+
+    },
+    "%@ realities" : {
+
+    },
+    "%@ Reality Shards" : {
+
+    },
+    "%@ Remnants" : {
+
+    },
+    "%@:" : {
+
+    },
+    "%@: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$@"
+          }
+        }
+      }
+    },
+    "%@: %@ (Recent change: %@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$@ (Recent change: %3$@)"
+          }
+        }
+      }
+    },
+    "%@/%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@/%2$@"
+          }
+        }
+      }
+    },
+    "%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@"
+          }
+        }
+      }
+    },
+    "%@%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        }
+      }
+    },
+    "%@%@%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@%4$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "%lld / %lld unlocked" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld unlocked"
+          }
+        }
+      }
+    },
+    "%lld %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@"
+          }
+        }
+      }
+    },
+    "%lld %@:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@:"
+          }
+        }
+      }
+    },
+    "%lld AP" : {
+
+    },
+    "%lld completion%@ on Eternity" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld completion%2$@ on Eternity"
+          }
+        }
+      }
+    },
+    "%lld error%@ found" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld error%2$@ found"
+          }
+        }
+      }
+    },
+    "%lld lines" : {
+
+    },
+    "%lld of %lld triggered" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld triggered"
+          }
+        }
+      }
+    },
+    "%lld/%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/%2$@"
+          }
+        }
+      }
+    },
+    "%lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "%lld/%lld chars" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/%2$lld chars"
+          }
+        }
+      }
+    },
+    "•" : {
+
+    },
+    "^%@" : {
+
+    },
+    "+%@ — from %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+%1$@ — from %2$@"
+          }
+        }
+      }
+    },
+    "+%@ to caps" : {
+
+    },
+    "+%@/s" : {
+
+    },
+    "+%lld Automator Points" : {
+
+    },
+    "+%lld queued" : {
+
+    },
+    "+100 Time Theorems" : {
+
+    },
+    "×512 bulk buy (capped)" : {
+
+    },
+    "|" : {
+
+    },
+    "♅" : {
+
+    },
+    "♫ Music Glyph" : {
+
+    },
+    "✓ Complete" : {
+
+    },
+    "➜" : {
+
+    },
+    "🌀%@" : {
+
+    },
+    "🠈" : {
+
+    },
+    "0" : {
+
+    },
+    "1 ST" : {
+
+    },
+    "2 ST" : {
+
+    },
+    "10 Hz" : {
+
+    },
+    "15 Hz" : {
+
+    },
+    "20 Hz" : {
+
+    },
+    "30 Hz" : {
+
+    },
+    "30 Hz / 33ms (web default, locked)" : {
+
+    },
+    "40% smaller interval" : {
+
+    },
+    "a %@ multiplier on all Infinity Dimensions." : {
+
+    },
+    "achieved with %@." : {
+
+    },
+    "Achievements" : {
+
+    },
+    "Achievements provide a multiplier to:" : {
+
+    },
+    "Achievements with a" : {
+
+    },
+    "Achievements: %lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Achievements: %1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "Activates every" : {
+
+    },
+    "active" : {
+
+    },
+    "ACTIVE" : {
+
+    },
+    "Active time: %@" : {
+
+    },
+    "Add Protected Rows" : {
+
+    },
+    "Adjust how much each factor contributes to new Glyph levels. Auto-adjust uses the game's suggested split based on your current Reality." : {
+
+    },
+    "Adjust Weights" : {
+
+    },
+    "ADs produce %@ faster per Tickspeed upgrade" : {
+
+    },
+    "AHEAD" : {
+
+    },
+    "Alchemy info" : {
+
+    },
+    "All boosts from Glyph Sacrifice are disabled while Doomed, including changes to effects due to Altered Glyphs." : {
+
+    },
+    "All effects from Glyph Sacrifice can no longer be increased once they reach %@." : {
+
+    },
+    "All Glyphs are unequipped — you'll be issued five doomed Glyphs" : {
+
+    },
+    "All IDs except the 8th are limited to %@ purchases each." : {
+
+    },
+    "All Infinity Challenges unlocked" : {
+
+    },
+    "All Memories have been returned." : {
+
+    },
+    "All resources are log₁₀ of their actual values." : {
+
+    },
+    "Almost all animations and confirmations are disabled by default. When you begin the run, the game remains paused until your antimatter changes, allowing you to configure all your settings before starting. A few achievements are given for free to mitigate weird early-game strategies." : {
+
+    },
+    "Almost every game mechanic gets disabled or nerfed" : {
+
+    },
+    "Also respec tree and eternity" : {
+
+    },
+    "Altered Glyphs" : {
+
+    },
+    "amount" : {
+
+    },
+    "Amount" : {
+
+    },
+    "An active Big Crunch Autobuyer will Crunch immediately when reaching an Infinity Challenge's antimatter goal, regardless of settings." : {
+
+    },
+    "An idle game about numbers that grow — slowly at first, then unimaginably fast. Want a quick tour to get you started?" : {
+
+    },
+    "Annihilate: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Annihilate: %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Annihilation" : {
+
+    },
+    "Antimatter Dimension\nAutobuyers" : {
+
+    },
+    "Antimatter Dimension Autobuyers" : {
+
+    },
+    "Antimatter Galaxy Autobuyer" : {
+
+    },
+    "Any Glyphs with rarity below these thresholds will be sacrificed." : {
+
+    },
+    "Applies after every Reality" : {
+
+    },
+    "Are you absolutely sure?" : {
+
+    },
+    "Armageddon for" : {
+
+    },
+    "Armageddon for %@ Remnants" : {
+
+    },
+    "Ascended ×%lld" : {
+
+    },
+    "at %@ EP" : {
+
+    },
+    "at %@ IP" : {
+
+    },
+    "Atolite" : {
+
+    },
+    "Auto" : {
+
+    },
+    "Auto Achievements" : {
+
+    },
+    "Auto at mult gain ≥" : {
+
+    },
+    "Auto Eternity Challenges" : {
+
+    },
+    "Auto Galaxy%@" : {
+
+    },
+    "Auto Glyph Arrangement" : {
+
+    },
+    "Auto-adjust weights" : {
+
+    },
+    "Auto-Annihilation Multiplier" : {
+
+    },
+    "Auto-collapse space" : {
+
+    },
+    "Auto-Condense: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto-Condense: %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Auto-pause: %@" : {
+
+    },
+    "Auto-purge on Realities" : {
+
+    },
+    "Auto-Reality on filter fail" : {
+
+    },
+    "Auto:" : {
+
+    },
+    "Autobuy EP mult" : {
+
+    },
+    "Autobuy IP mult" : {
+
+    },
+    "Autobuyer:" : {
+
+    },
+    "Autobuyers" : {
+
+    },
+    "Autobuyers with no displayed bulk have unlimited bulk by default.\nAntimatter Dimension Autobuyers can have their bulk upgraded once interval is below 100 ms." : {
+
+    },
+    "Automatic backups are created at fixed intervals. Older backups further down let you roll back further if something went wrong." : {
+
+    },
+    "Automatic Big Crunch" : {
+
+    },
+    "Automatic Eternity" : {
+
+    },
+    "Automatic Reality" : {
+
+    },
+    "Automatic Singularity gain rate: %@ per hour" : {
+
+    },
+    "Automatically annihilate when the Dark Matter multiplier gain reaches this value." : {
+
+    },
+    "Automatically gain the next missing Achievement as soon as you enable Auto Achievements. (left-to-right, top-to-bottom)" : {
+
+    },
+    "Automatically reduces the display refresh rate after a period of inactivity. The game continues running at full speed — only visual updates slow down. Helps reduce heat and save battery during idle play." : {
+
+    },
+    "Automatically retry challenges" : {
+
+    },
+    "Automator Log Max: %lld" : {
+
+    },
+    "Available Effects:" : {
+
+    },
+    "Back" : {
+
+    },
+    "Backup is corrupted" : {
+
+    },
+    "Backup is empty" : {
+
+    },
+    "Backup restored" : {
+
+    },
+    "Base Resource" : {
+
+    },
+    "Begin Effarig's Reality" : {
+
+    },
+    "Behavior for deleted and filtered Glyphs:" : {
+
+    },
+    "Best: %@" : {
+
+    },
+    "BH%lld" : {
+
+    },
+    "Big Crunch" : {
+
+    },
+    "Big Crunch for\n%@ Infinity Points" : {
+
+    },
+    "Big Crunch for %@ IP" : {
+
+    },
+    "Big Crunch to\ncomplete the challenge" : {
+
+    },
+    "Black Hole %lld State: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Black Hole %1$lld State: %2$@"
+          }
+        }
+      }
+    },
+    "Black Hole %lld Upgrades" : {
+
+    },
+    "Black Hole Power Autobuyers" : {
+
+    },
+    "Black Hole Power: %@" : {
+
+    },
+    "Black holes become permanently active when they are active for more than 99.99% of the time." : {
+
+    },
+    "Both sides have data" : {
+
+    },
+    "Bought upgrades hidden" : {
+
+    },
+    "Bought: %lld" : {
+
+    },
+    "BREAK INFINITY" : {
+
+    },
+    "Broken" : {
+
+    },
+    "Bulk: ×%lld" : {
+
+    },
+    "Button haptics" : {
+
+    },
+    "Buy" : {
+
+    },
+    "Buy %lld" : {
+
+    },
+    "Buy 10 Dimension purchase multiplier: %@" : {
+
+    },
+    "Buy 10 Dimension purchase multiplier: %@ | Dimensional Sacrifice multiplier: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Buy 10 Dimension purchase multiplier: %1$@ | Dimensional Sacrifice multiplier: %2$@"
+          }
+        }
+      }
+    },
+    "Buy a Dimension" : {
+
+    },
+    "Buy a Tesseract (%lld%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Buy a Tesseract (%1$lld%2$@)"
+          }
+        }
+      }
+    },
+    "Buy Dimensions to produce antimatter. Spend that antimatter on more Dimensions. Every purchase compounds — the more you invest, the faster everything grows." : {
+
+    },
+    "Buy Max" : {
+
+    },
+    "Buy the \"Re-enable Glyph equipping\" Pelle upgrade to restore it." : {
+
+    },
+    "Buys 1" : {
+
+    },
+    "Buys max" : {
+
+    },
+    "Buys max every interval" : {
+
+    },
+    "Buys singles" : {
+
+    },
+    "C%lld" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Cap in %@" : {
+
+    },
+    "Cap increased ×%lld" : {
+
+    },
+    "Capped" : {
+
+    },
+    "CAPPED" : {
+
+    },
+    "Capped:" : {
+
+    },
+    "Capped: %@" : {
+
+    },
+    "Celestial Navigation" : {
+
+    },
+    "Challenge" : {
+
+    },
+    "Challenges are special runs with different modifiers that give you a reward upon completion." : {
+
+    },
+    "Charge" : {
+
+    },
+    "Charge Dark Energy to %@, then Condense to form a Singularity." : {
+
+    },
+    "Charged" : {
+
+    },
+    "Charged %lld/%lld Infinity Upgrades. Charged upgrades have their effect altered." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Charged %1$lld/%2$lld Infinity Upgrades. Charged upgrades have their effect altered."
+          }
+        }
+      }
+    },
+    "Choosing the smaller save will **lose progress** on this slot. Consider exporting the ahead version to clipboard first as a backup." : {
+
+    },
+    "Chunks: %@ (+%@) — from %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Chunks: %1$@ (+%2$@) — from %3$@"
+          }
+        }
+      }
+    },
+    "Clear search" : {
+
+    },
+    "Close" : {
+
+    },
+    "Cloud slot is empty" : {
+
+    },
+    "Collapse Empty Slots" : {
+
+    },
+    "Color glyph effect text" : {
+
+    },
+    "Coming Soon" : {
+
+    },
+    "Coming soon." : {
+
+    },
+    "Commands" : {
+
+    },
+    "Complete all Effarig stages" : {
+
+    },
+    "Complete the challenge to change mode" : {
+
+    },
+    "Complete the challenge to upgrade interval" : {
+
+    },
+    "Complete to destabilise Lai'tela and unlock rewards." : {
+
+    },
+    "Completed" : {
+
+    },
+    "Completely wipe your save and start over." : {
+
+    },
+    "Confirm" : {
+
+    },
+    "Confirm Hard Reset" : {
+
+    },
+    "Connect a hardware keyboard to use these shortcuts. Some keys may need configuration in Settings → General → Keyboard → Hardware Keyboard for non-US layouts." : {
+
+    },
+    "Constants:" : {
+
+    },
+    "Continue" : {
+
+    },
+    "Continuum replaces your Antimatter Dimension and Tickspeed Autobuyers, as your production multipliers now automatically and continuously scale based on how many purchases you would have had otherwise." : {
+
+    },
+    "Continuum:" : {
+
+    },
+    "Controls how often the game simulation updates. Lower values are smoother but use more battery. Default is 33 ms." : {
+
+    },
+    "Controls how often the screen refreshes. Lower values use less battery and produce less heat. The game runs at full speed regardless — only the display refresh changes." : {
+
+    },
+    "Copyright (c) 2017 IvarK" : {
+
+    },
+    "Cost:" : {
+
+    },
+    "Cost: %@" : {
+
+    },
+    "Cost: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cost: %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Cost: %@ DM" : {
+
+    },
+    "Cost: %@ DT" : {
+
+    },
+    "Cost: %@ EP" : {
+
+    },
+    "Cost: %@ Eternity Points" : {
+
+    },
+    "Cost: %@ iM" : {
+
+    },
+    "Cost: %@ IP" : {
+
+    },
+    "Cost: %@ Relic Shards" : {
+
+    },
+    "Cost: %@ RM" : {
+
+    },
+    "Cost: %lld %@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cost: %1$lld %2$@%3$@"
+          }
+        }
+      }
+    },
+    "Cost: 100 Reality Machines" : {
+
+    },
+    "Costs: %@" : {
+
+    },
+    "Costs: %@ IP" : {
+
+    },
+    "Could not delete preset" : {
+
+    },
+    "Could not delete slot" : {
+
+    },
+    "Could not import save (invalid format)" : {
+
+    },
+    "Could not parse the input. Make sure you have a valid exported automator script." : {
+
+    },
+    "Could not rename slot" : {
+
+    },
+    "Could not restore backup" : {
+
+    },
+    "Could not save preset" : {
+
+    },
+    "Could not switch slot" : {
+
+    },
+    "Create a level %@ Reality Glyph." : {
+
+    },
+    "Credits & Licenses" : {
+
+    },
+    "Current" : {
+
+    },
+    "Current Amount: %@" : {
+
+    },
+    "Current bulk: ×%lld" : {
+
+    },
+    "Current Effects" : {
+
+    },
+    "Current Filter Mode:" : {
+
+    },
+    "Current interval: %@" : {
+
+    },
+    "Current interval: 0.10 seconds" : {
+
+    },
+    "Current interval: Instant" : {
+
+    },
+    "Current run: %@" : {
+
+    },
+    "Current stage: %@ — Glyph level cap %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Current stage: %1$@ — Glyph level cap %2$lld"
+          }
+        }
+      }
+    },
+    "Current total: %@" : {
+
+    },
+    "Current: %@" : {
+
+    },
+    "Current: %@ DM | Mult %@ ➜ gain %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Current: %1$@ DM | Mult %2$@ ➜ gain %3$@"
+          }
+        }
+      }
+    },
+    "Current: %@ EP/min" : {
+
+    },
+    "Current: %@ IP/min" : {
+
+    },
+    "Currently active Glyph effects" : {
+
+    },
+    "Currently active Glyph effects:" : {
+
+    },
+    "Currently Running" : {
+
+    },
+    "Currently:" : {
+
+    },
+    "Currently: " : {
+
+    },
+    "Currently: %@" : {
+
+    },
+    "Currently: %lld%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Currently: %1$lld%2$@"
+          }
+        }
+      }
+    },
+    "Cursed Glyphs can be created here or in the Effarig tab." : {
+
+    },
+    "Cursed Glyphs can be created here or in the V tab." : {
+
+    },
+    "Cursed Glyphs count as −3 Glyphs for the purposes of all requirements related to Glyph count." : {
+
+    },
+    "Custom name" : {
+
+    },
+    "Custom set name" : {
+
+    },
+    "Danger Zone" : {
+
+    },
+    "Dark Energy:" : {
+
+    },
+    "Dark Matter Dimension %lld" : {
+
+    },
+    "Dark Matter Dimensions" : {
+
+    },
+    "Dark Matter Dimensions are unaffected by storing real time." : {
+
+    },
+    "DE %@/sec" : {
+
+    },
+    "Debug" : {
+
+    },
+    "Decrease Singularity cap." : {
+
+    },
+    "Dedicated to" : {
+
+    },
+    "Define case-sensitive constants to use in place of numbers or Time Study import strings. These are shared across all scripts (max %lld). Names and values are limited to %lld and %lld characters. Changes apply once any running script is restarted." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Define case-sensitive constants to use in place of numbers or Time Study import strings. These are shared across all scripts (max %1$lld). Names and values are limited to %2$lld and %3$lld characters. Changes apply once any running script is restarted."
+          }
+        }
+      }
+    },
+    "Delete" : {
+
+    },
+    "Delete '%@'? This cannot be undone." : {
+
+    },
+    "Delete '%@'? This won't sacrifice or remove the glyphs themselves." : {
+
+    },
+    "Delete All" : {
+
+    },
+    "Delete all constants" : {
+
+    },
+    "Delete all constants?" : {
+
+    },
+    "Delete Preset" : {
+
+    },
+    "Delete Preset %lld? This won't sacrifice or remove the glyphs themselves." : {
+
+    },
+    "Delete preset?" : {
+
+    },
+    "Delete Script?" : {
+
+    },
+    "Delete Slot" : {
+
+    },
+    "Delete the existing preset first" : {
+
+    },
+    "Destabilised tier %lld/8  |  Max DMD %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Destabilised tier %1$lld/8  |  Max DMD %2$lld"
+          }
+        }
+      }
+    },
+    "Destroyed by Pelle" : {
+
+    },
+    "Dilation Upgrade\nAutobuyers" : {
+
+    },
+    "Dilation Upgrade Autobuyers" : {
+
+    },
+    "Dimension Boost (%lld)" : {
+
+    },
+    "Dimension Boost Autobuyer" : {
+
+    },
+    "Dimension Split Preference" : {
+
+    },
+    "Dimension Split: %@" : {
+
+    },
+    "Dimensional Sacrifice" : {
+
+    },
+    "Dimensional Sacrifice (%@)" : {
+
+    },
+    "Dimensional Sacrifice Disabled (%@)" : {
+
+    },
+    "Dimensional Sacrifice is Automated (Achievement 118)" : {
+
+    },
+    "Disable all autobuyers" : {
+
+    },
+    "Disable all reactions" : {
+
+    },
+    "Disable Continuum" : {
+
+    },
+    "Disable Lock" : {
+
+    },
+    "Disable reaction" : {
+
+    },
+    "Disabled by Pelle." : {
+
+    },
+    "Discharge: %@" : {
+
+    },
+    "Display" : {
+
+    },
+    "Display Hz" : {
+
+    },
+    "Display: %lld Hz (CADisplayLink)" : {
+
+    },
+    "Don't show this again" : {
+
+    },
+    "Done" : {
+
+    },
+    "done... what little... I can... with Glyphs..." : {
+
+    },
+    "Doom" : {
+
+    },
+    "Doom Your Reality" : {
+
+    },
+    "Dooming your Reality is permanent. You will lose all upgrades, glyphs, achievements, and progression that aren't preserved by Pelle Upgrades." : {
+
+    },
+    "Double bulk buy" : {
+
+    },
+    "Download iCloud save" : {
+
+    },
+    "Drag Glyphs here to Sacrifice" : {
+
+    },
+    "Drag Glyphs here to Sacrifice." : {
+
+    },
+    "Drag to equip, sacrifice, or rearrange" : {
+
+    },
+    "Drain %@" : {
+
+    },
+    "Draining the cap-rift…" : {
+
+    },
+    "Drains %@ to fill." : {
+
+    },
+    "Due to amplification of your current Reality, you will actually gain a total of %@ Relic Shards (%@/min)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Due to amplification of your current Reality, you will actually gain a total of %1$@ Relic Shards (%2$@/min)."
+          }
+        }
+      }
+    },
+    "Dynamic amount" : {
+
+    },
+    "Dynamic Throttling" : {
+
+    },
+    "Each Hard V-Achievement counts as two V-Achievements and will award 2 Space Theorems instead of 1." : {
+
+    },
+    "Each hint triples the next hint's cost; this cost bump decays toward 1× over 24 hours. Finding the meaning of a hint immediately halves the cost. The floor is 1e40 years." : {
+
+    },
+    "Each new Glyph will have its rarity increased by a random value between +0%% and +%@." : {
+
+    },
+    "Each step increases the required Dark Energy by ×%lld, but also increases gained Singularities by ×%lld." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Each step increases the required Dark Energy by ×%1$lld, but also increases gained Singularities by ×%2$lld."
+          }
+        }
+      }
+    },
+    "EC%lld" : {
+
+    },
+    "EC%lld (%lld/5)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "EC%1$lld (%2$lld/5)"
+          }
+        }
+      }
+    },
+    "Edit" : {
+
+    },
+    "editing" : {
+
+    },
+    "Editing Study Preset \"%@\"" : {
+
+    },
+    "Effarig" : {
+
+    },
+    "Effarig's Reality — %@" : {
+
+    },
+    "Effect" : {
+
+    },
+    "Effect: %@" : {
+
+    },
+    "Effects (Include vs Exact)" : {
+
+    },
+    "Efficiency: %@" : {
+
+    },
+    "Empty" : {
+
+    },
+    "Empty — tap to start a new game here" : {
+
+    },
+    "Empty slot" : {
+
+    },
+    "Enable all autobuyers" : {
+
+    },
+    "Enable all reactions" : {
+
+    },
+    "Enable Continuum" : {
+
+    },
+    "Enable reaction" : {
+
+    },
+    "End everything you've built. Begin the Pelle endgame." : {
+
+    },
+    "Enslaved Secret Study" : {
+
+    },
+    "Enter Effarig's Reality." : {
+
+    },
+    "Entropy: %@" : {
+
+    },
+    "Equip" : {
+
+    },
+    "Equip glyphs first" : {
+
+    },
+    "Equipped Glyphs" : {
+
+    },
+    "Estimated: %@" : {
+
+    },
+    "ETA: %@" : {
+
+    },
+    "Eternity Challenge %lld (%lld/5)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Eternity Challenge %1$lld (%2$lld/5)"
+          }
+        }
+      }
+    },
+    "Eternity Challenge: %lld%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Eternity Challenge: %1$lld%2$@"
+          }
+        }
+      }
+    },
+    "Eternity Challenges" : {
+
+    },
+    "Eternity Challenges can be completed up to 5 times, with the goal increasing each time. Rewards scale with completions." : {
+
+    },
+    "Eternity for %@" : {
+
+    },
+    "Eternity for %@ EP" : {
+
+    },
+    "Every completed row of purchased upgrades increases your Glyph level by 1." : {
+
+    },
+    "Every second, you gain 1% of your peaked Eternity Points per minute this Reality." : {
+
+    },
+    "Examine the Reality more closely…" : {
+
+    },
+    "Example: defining first 🠈 11,21,22,31,32,33 lets you use studies purchase first." : {
+
+    },
+    "Exit Challenge" : {
+
+    },
+    "Explains what Inactive means" : {
+
+    },
+    "exponent" : {
+
+    },
+    "Export" : {
+
+    },
+    "Export filter settings" : {
+
+    },
+    "Export Save to Clipboard" : {
+
+    },
+    "Export to Clipboard" : {
+
+    },
+    "Failed to export Glyph filter." : {
+
+    },
+    "Fake 90-min offline gap on background" : {
+
+    },
+    "Fastest completion: %@" : {
+
+    },
+    "Fastest Destabilization Glyph Set" : {
+
+    },
+    "FEEL ETERNITY" : {
+
+    },
+    "Filled by %@. Each milestone unlocks at the listed %% fill." : {
+
+    },
+    "Filter export string" : {
+
+    },
+    "Filter settings copied to clipboard" : {
+
+    },
+    "Final Level" : {
+
+    },
+    "Finding Your Way" : {
+
+    },
+    "Fix Save" : {
+
+    },
+    "for %@ Infinity Points" : {
+
+    },
+    "Gain %@ Tachyon Particles." : {
+
+    },
+    "Galaxy Generator" : {
+
+    },
+    "Game has been reset" : {
+
+    },
+    "Game Settings" : {
+
+    },
+    "Game Speed" : {
+
+    },
+    "Game State" : {
+
+    },
+    "Game Time" : {
+
+    },
+    "Gameplay" : {
+
+    },
+    "Generation capped — drain to advance phase" : {
+
+    },
+    "Gentle vibration on button taps. iPhone only — silently no-ops on iPad. Default: on." : {
+
+    },
+    "Get 1e4000 Eternity Points to unlock a new Reality" : {
+
+    },
+    "Get a Cursed Glyph…" : {
+
+    },
+    "Give" : {
+
+    },
+    "Give 1 EP" : {
+
+    },
+    "Give 1 Eternity" : {
+
+    },
+    "Give 1 Perk Point" : {
+
+    },
+    "Give 10 Dimension Boosts" : {
+
+    },
+    "Give 10 Galaxies" : {
+
+    },
+    "Give 10,000 Realities" : {
+
+    },
+    "Give All Achievements" : {
+
+    },
+    "Give Remembrance to %@" : {
+
+    },
+    "Give Slot %lld a nickname." : {
+
+    },
+    "Give Time Theorems" : {
+
+    },
+    "Glyph equipping is disabled while Doomed." : {
+
+    },
+    "Glyph filter imported." : {
+
+    },
+    "Glyph hint (%lld left)" : {
+
+    },
+    "Glyph hint:" : {
+
+    },
+    "Glyph Level" : {
+
+    },
+    "Glyph Level Factors" : {
+
+    },
+    "Glyph levels higher than %@ are harder to reach." : {
+
+    },
+    "Glyph Presets" : {
+
+    },
+    "Glyph Rarity is set to %@ and Level is capped at %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Glyph Rarity is set to %1$@ and Level is capped at %2$@."
+          }
+        }
+      }
+    },
+    "Glyph Sacrifice Boosts" : {
+
+    },
+    "Glyph Sacrifice Boosts:" : {
+
+    },
+    "Glyph Sacrifice gain is also being raised to %@." : {
+
+    },
+    "Glyph sacrifice values are multiplied by %@; Teresa was last done at %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Glyph sacrifice values are multiplied by %1$@; Teresa was last done at %2$@."
+          }
+        }
+      }
+    },
+    "Glyph score is rarity, minus 200 for every missing effect. Glyphs below the selected rarity are sacrificed. Additional effects beyond those specified do not increase score." : {
+
+    },
+    "Glyph selection prompt on Reality" : {
+
+    },
+    "Glyph Set used" : {
+
+    },
+    "Glyph Set used:" : {
+
+    },
+    "Glyph Type" : {
+
+    },
+    "Glyph types will have one of their effects improved when their Glyph type's total sacrifice value is above:" : {
+
+    },
+    "Glyphs are becoming unstable." : {
+
+    },
+    "Glyphs can be refined using your Glyph filter on the Glyphs tab." : {
+
+    },
+    "Glyphs must have at least this many effects to be chosen. Rarer Glyphs are preferred in ties." : {
+
+    },
+    "Glyphs will unequip on Reality" : {
+
+    },
+    "Goal has been %@ by %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Goal has been %1$@ by %2$@"
+          }
+        }
+      }
+    },
+    "Goal reduction is significantly more expensive for Hard V-Achievements." : {
+
+    },
+    "Goal: %@ antimatter" : {
+
+    },
+    "Goal: %@ IP" : {
+
+    },
+    "Got it" : {
+
+    },
+    "Grant 1e12 Imaginary Machines" : {
+
+    },
+    "Hard Reset" : {
+
+    },
+    "Hide details" : {
+
+    },
+    "Hide Hard V" : {
+
+    },
+    "Hide tabs and subtabs you don't need from the sidebar. The Options tab is always visible." : {
+
+    },
+    "Hide tabs and subtabs you don't need. You can't hide the tab you're currently viewing — switch away first if you want to hide it. The Options tab is always visible." : {
+
+    },
+    "Highest active dimension: %lld" : {
+
+    },
+    "How large numbers are displayed. Only the notations ported to iOS are listed." : {
+
+    },
+    "IC%lld" : {
+
+    },
+    "iCloud isn't available — sign in to iCloud in Settings to enable sync." : {
+
+    },
+    "iCloud save" : {
+
+    },
+    "iCloud service not yet ready — try again in a moment." : {
+
+    },
+    "iCloud Sync" : {
+
+    },
+    "icon also give an additional reward." : {
+
+    },
+    "If on, ignore all other settings and immediately Reality if no upcoming Glyphs would be kept." : {
+
+    },
+    "Imaginary Machines are gained passively over time up to the cap, but gain slows exponentially near the cap. Every %lld seconds the gap between current iM and cap is halved." : {
+
+    },
+    "Imaginary Upgrade" : {
+
+    },
+    "Imaginary Upgrade Autobuyers" : {
+
+    },
+    "Import" : {
+
+    },
+    "Import filter settings" : {
+
+    },
+    "Import Save" : {
+
+    },
+    "Import Save from Clipboard" : {
+
+    },
+    "Import Time Study Presets" : {
+
+    },
+    "Importing will not purchase any new Time Studies." : {
+
+    },
+    "In %@ Singularities" : {
+
+    },
+    "Increase Singularity cap." : {
+
+    },
+    "increased by %@ to a %@ multiplier on all ADs." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "increased by %1$@ to a %2$@ multiplier on all ADs."
+          }
+        }
+      }
+    },
+    "Infinity\nDimensions" : {
+
+    },
+    "Infinity Challenges" : {
+
+    },
+    "Infinity Dimension\nAutobuyers" : {
+
+    },
+    "Infinity Dimension Autobuyers" : {
+
+    },
+    "INFINITY IS BROKEN" : {
+
+    },
+    "Infinity Points" : {
+
+    },
+    "Infinity Points reset; Big Crunch autobuyer mode resets to AMOUNT" : {
+
+    },
+    "Infinity Power: %@ multiplier on all ADs." : {
+
+    },
+    "Input your tree" : {
+
+    },
+    "Inside Ra's Reality" : {
+
+    },
+    "Interval %@" : {
+
+    },
+    "Interval: %@" : {
+
+    },
+    "Invalid Glyph filter string." : {
+
+    },
+    "Invalid slot" : {
+
+    },
+    "Inventory" : {
+
+    },
+    "Inverted Black Hole divides game speed by %@. (Currently %@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inverted Black Hole divides game speed by %1$@. (Currently %2$@)"
+          }
+        }
+      }
+    },
+    "Inverting the Black Hole only affects its own speedup, no other upgrades or effects, although it will also indirectly affect the Effarig Game speed power effect." : {
+
+    },
+    "IP multiplier soft/hard cap details" : {
+
+    },
+    "It can also force prestige events on certain conditions independently from your Autobuyers or modify some of your Autobuyer settings." : {
+
+    },
+    "Italic" : {
+
+    },
+    "JS Error" : {
+
+    },
+    "Keep buying Dimensions until you can reach Infinity — your first big milestone. Good luck!" : {
+
+    },
+    "Keep this device's save" : {
+
+    },
+    "Keep up to 3 independent games. Tap a slot for actions." : {
+
+    },
+    "Keyboard Shortcuts" : {
+
+    },
+    "Lai'tela, Celestial of Dimensions" : {
+
+    },
+    "Lai'tela's Reality has been fully destabilized and cannot have its reward further improved." : {
+
+    },
+    "Last 10 %@" : {
+
+    },
+    "Last checked %@" : {
+
+    },
+    "Let's go!" : {
+
+    },
+    "Level (Increased vs Exact)" : {
+
+    },
+    "Level %@ to %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Level %1$@ to %2$lld"
+          }
+        }
+      }
+    },
+    "Level %lld" : {
+
+    },
+    "Level:" : {
+
+    },
+    "Level: %lld" : {
+
+    },
+    "License" : {
+
+    },
+    "Line %lld" : {
+
+    },
+    "Line count: %lld" : {
+
+    },
+    "Load" : {
+
+    },
+    "Load this save" : {
+
+    },
+    "Loaded '%@'" : {
+
+    },
+    "Loaded '%@' — %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Loaded '%1$@' — %2$@"
+          }
+        }
+      }
+    },
+    "Loaded newer save from iCloud" : {
+
+    },
+    "Loaded Slot %lld" : {
+
+    },
+    "Loading game engine…" : {
+
+    },
+    "Loading…" : {
+
+    },
+    "Locked" : {
+
+    },
+    "Locked — purchase a connected perk first" : {
+
+    },
+    "Locked — unlocked by Imaginary Upgrade" : {
+
+    },
+    "Locked (%lld/%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Locked (%1$lld/%2$@)"
+          }
+        }
+      }
+    },
+    "Locked by Doom" : {
+
+    },
+    "Locked upgrades show their requirement by default; unlocked ones show their effect, current bonus, and cost. Use the toggle below to swap this behavior." : {
+
+    },
+    "Locked. Discover the requirement on your own." : {
+
+    },
+    "Long press a locked row to see its Infinity Point cost." : {
+
+    },
+    "Long-press an upgrade with a lock icon to prevent failing its unlock condition this Reality." : {
+
+    },
+    "Long-press upgrades with a lock icon to prevent failing their unlock condition this Reality." : {
+
+    },
+    "Lv %lld/25" : {
+
+    },
+    "Lv. %lld" : {
+
+    },
+    "Machines gained in excess of %@ will raise the maximum amount of Imaginary Machines you can have." : {
+
+    },
+    "Main inventory" : {
+
+    },
+    "Make a new Reality" : {
+
+    },
+    "Manual Singularity gain rate: %@ per hour" : {
+
+    },
+    "Matching leniency" : {
+
+    },
+    "Max" : {
+
+    },
+    "Max 4 characters, ASCII only" : {
+
+    },
+    "Max all" : {
+
+    },
+    "Max All" : {
+
+    },
+    "Max All Dimensions" : {
+
+    },
+    "Max EP mult" : {
+
+    },
+    "Max Perk Points" : {
+
+    },
+    "Maxed" : {
+
+    },
+    "Maximum number of automator log entries kept in memory." : {
+
+    },
+    "Maximum simulation ticks used to catch up offline progress. Higher = more accurate, slower to complete. Use Speed up or Skip in the progress bar to finish a long catch-up early." : {
+
+    },
+    "Maximum stored real time: %@" : {
+
+    },
+    "Meet all of the following requirements simultaneously to unlock V" : {
+
+    },
+    "Memories: %@" : {
+
+    },
+    "Milestones" : {
+
+    },
+    "Minimum effects" : {
+
+    },
+    "MIT License" : {
+
+    },
+    "Modify Visible Tabs" : {
+
+    },
+    "More Eternity Points slightly increases Relic Shards gained. More distinct Glyph effects significantly increases Relic Shards gained." : {
+
+    },
+    "more rapidly above %@ Replicanti Galaxies and even more so above %@ Replicanti Galaxies." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "more rapidly above %1$@ Replicanti Galaxies and even more so above %2$@ Replicanti Galaxies."
+          }
+        }
+      }
+    },
+    "Move to Protected Row" : {
+
+    },
+    "Multiply Eternity Points from all sources by x5" : {
+
+    },
+    "Multiply IP by 2" : {
+
+    },
+    "Multiplying all Memory production by ×%@" : {
+
+    },
+    "Name" : {
+
+    },
+    "Name your speedrun save. This has no gameplay effect — it just identifies this particular save as yours. If left blank, a random name will be generated." : {
+
+    },
+    "Never Auto-purge Glyphs accepted by filter" : {
+
+    },
+    "Never completed (reward scales with speed once you finish)." : {
+
+    },
+    "New constant…" : {
+
+    },
+    "New Game" : {
+
+    },
+    "New Glyph level cap: %lld" : {
+
+    },
+    "News Ticker" : {
+
+    },
+    "Next" : {
+
+    },
+    "Next goal at %@ IP" : {
+
+    },
+    "Next hint:" : {
+
+    },
+    "Next Infinity Challenge unlocks at %@ antimatter." : {
+
+    },
+    "Next Tachyon Galaxy at %@ Dilated Time" : {
+
+    },
+    "Next upgrade at %@, increasing by %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next upgrade at %1$@, increasing by %2$@."
+          }
+        }
+      }
+    },
+    "No backup yet" : {
+
+    },
+    "No backups yet. They'll appear here as you play." : {
+
+    },
+    "No command documentation available." : {
+
+    },
+    "No Glyph Preset saved in this slot" : {
+
+    },
+    "No glyphs equipped" : {
+
+    },
+    "No help sections match \"%@\"." : {
+
+    },
+    "no milestones yet" : {
+
+    },
+    "No record yet." : {
+
+    },
+    "No script errors found!" : {
+
+    },
+    "No thanks, I'll explore" : {
+
+    },
+    "None (equip Glyphs to get their effects)" : {
+
+    },
+    "Normal Challenges" : {
+
+    },
+    "Normal mode: tap to purchase" : {
+
+    },
+    "Not a valid Glyph filter string" : {
+
+    },
+    "Not a valid tree" : {
+
+    },
+    "Not now" : {
+
+    },
+    "Notation" : {
+
+    },
+    "Nothing here. The web version has a joke STD coin store; the iOS port doesn't. You did, however, just find a Secret Achievement." : {
+
+    },
+    "Nullified by Doom" : {
+
+    },
+    "of the following effects:" : {
+
+    },
+    "OFF" : {
+
+    },
+    "Offline progress" : {
+
+    },
+    "Offline Progress Simulation" : {
+
+    },
+    "Offline ticks: %@" : {
+
+    },
+    "OK" : {
+
+    },
+    "ON" : {
+
+    },
+    "Open…" : {
+
+    },
+    "Other Celestial Realities are sealed by Doom." : {
+
+    },
+    "Other challenges await..." : {
+
+    },
+    "Other times await...\nI need to become Eternal" : {
+
+    },
+    "Overwrite local save?" : {
+
+    },
+    "Overwrites whatever's in iCloud" : {
+
+    },
+    "Pace Split Preference" : {
+
+    },
+    "Pace Split: %@" : {
+
+    },
+    "Paste" : {
+
+    },
+    "Paste a Glyph filter export. Importing overwrites settings across all modes, not just the currently-selected one." : {
+
+    },
+    "Paste exported script data..." : {
+
+    },
+    "Path Preferences" : {
+
+    },
+    "Paths" : {
+
+    },
+    "Pause autobuyers" : {
+
+    },
+    "Peak: %@ EP/min" : {
+
+    },
+    "Peak: %@ IP/min" : {
+
+    },
+    "Pelle Strike penalties are permanent and remain active even after Armageddon!" : {
+
+    },
+    "Pelle Strikes and Rifts" : {
+
+    },
+    "Pelle Upgrades" : {
+
+    },
+    "Pelle, Celestial of Antimatter" : {
+
+    },
+    "PERF + JS-PROF Logging" : {
+
+    },
+    "Perform a Dimension Boost reset but lose a Dimension Boost" : {
+
+    },
+    "Perform a Dimension Boost reset for no gain" : {
+
+    },
+    "Performance" : {
+
+    },
+    "Perk choices are permanent and cannot be respecced." : {
+
+    },
+    "Perks marked with a ◆ also give Automator Points." : {
+
+    },
+    "Permanent unlocks" : {
+
+    },
+    "Permanently delete Slot %lld? This cannot be undone." : {
+
+    },
+    "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." : {
+
+    },
+    "Phase %lld of 4" : {
+
+    },
+    "Potential Glyphs for this Reality" : {
+
+    },
+    "Preset #%lld" : {
+
+    },
+    "Preset %lld" : {
+
+    },
+    "Preset %lld deleted" : {
+
+    },
+    "Preset %lld saved" : {
+
+    },
+    "Preset %lld: " : {
+
+    },
+    "Presets:" : {
+
+    },
+    "Prints per-subsystem JS game loop breakdown to Xcode console every 5 seconds." : {
+
+    },
+    "Progress unlocks whole new layers — Infinity, Eternity, Reality and beyond. Don't worry about understanding it all now; the game reveals each piece when you're ready." : {
+
+    },
+    "Projected Glyph Level: %lld" : {
+
+    },
+    "Protected slots" : {
+
+    },
+    "Protected: %lld row%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Protected: %1$lld row%2$@"
+          }
+        }
+      }
+    },
+    "Pulse Black Hole:" : {
+
+    },
+    "Pulse:" : {
+
+    },
+    "Purchase (1 PP)" : {
+
+    },
+    "Purchase the Reality study to see\nthis Reality's Glyph choices" : {
+
+    },
+    "Purchase the study in the Eternity tab to unlock a new Reality" : {
+
+    },
+    "Purchased" : {
+
+    },
+    "Quote History" : {
+
+    },
+    "Ra is not yet unlocked." : {
+
+    },
+    "Ra, Celestial of Memory" : {
+
+    },
+    "Rarity (Increased vs Exact)" : {
+
+    },
+    "Rarity threshold" : {
+
+    },
+    "Rarity will always be 100% and level scales on your current Reality Resource amount (which is all consumed). All other Alchemy Resources are unaffected. Reality Glyphs have unique effects, some only available at higher Glyph levels. Reality Glyphs can also be sacrificed to increase all Memory Chunk gain. Like Effarig Glyphs, you cannot equip more than one at the same time." : {
+
+    },
+    "Rarity:" : {
+
+    },
+    "Reach %@" : {
+
+    },
+    "Reach %@\nantimatter" : {
+
+    },
+    "Reach %@ AM" : {
+
+    },
+    "Reach %@ antimatter to gain more Tachyon Particles." : {
+
+    },
+    "Reach %@ Infinity Points to Eternity and gain Tachyon Particles." : {
+
+    },
+    "Reach %@ IP" : {
+
+    },
+    "Reach 10 Singularities to unlock Bulk Singularities." : {
+
+    },
+    "Reach 36 Space Theorems inside V to unlock Ra's Memories." : {
+
+    },
+    "Reaction" : {
+
+    },
+    "Reaction: %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reaction: %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Reaction: Active — Disable" : {
+
+    },
+    "Reaction: Inactive — Enable" : {
+
+    },
+    "Reactions trigger once per Reality, unaffected by stored real time." : {
+
+    },
+    "Ready to unlock — keep pouring!" : {
+
+    },
+    "Real Time" : {
+
+    },
+    "Reality" : {
+
+    },
+    "Reality Glyphs are unaffected by this multiplier and have no altered effects." : {
+
+    },
+    "Reality hint (%lld left)" : {
+
+    },
+    "Reality Shards" : {
+
+    },
+    "Reality Shards / sec" : {
+
+    },
+    "Reality Shards %@ ➔ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reality Shards %1$@ ➔ %2$@"
+          }
+        }
+      }
+    },
+    "Reality Upgrade\nAutobuyers" : {
+
+    },
+    "Reality Upgrade Autobuyers" : {
+
+    },
+    "Rebuyables" : {
+
+    },
+    "Recent change" : {
+
+    },
+    "Reduce (%@ PP)" : {
+
+    },
+    "Reduce the interval of the Big Crunch Autobuyer to 0.1 seconds to unlock." : {
+
+    },
+    "Refine: " : {
+
+    },
+    "Refining caps each resource at %@× its highest refinement value." : {
+
+    },
+    "Refresh Rate" : {
+
+    },
+    "Remaining: %@" : {
+
+    },
+    "Remembrance" : {
+
+    },
+    "Remembrance given to %@" : {
+
+    },
+    "Remnant Gain Factors" : {
+
+    },
+    "Remnants" : {
+
+    },
+    "Remove All Achievements" : {
+
+    },
+    "Remove Protected Rows" : {
+
+    },
+    "Remove weaker Glyphs" : {
+
+    },
+    "Rename" : {
+
+    },
+    "Rename Script" : {
+
+    },
+    "Rename Slot" : {
+
+    },
+    "Repeat this Celestial's Reality" : {
+
+    },
+    "Replace" : {
+
+    },
+    "Replace your current progress in Slot %lld with the %@ backup? Your current progress will be lost." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace your current progress in Slot %1$lld with the %2$@ backup? Your current progress will be lost."
+          }
+        }
+      }
+    },
+    "Replaces this device's current slot" : {
+
+    },
+    "Replicanti" : {
+
+    },
+    "Replicanti Upgrade\nAutobuyers" : {
+
+    },
+    "Replicanti Upgrade Autobuyers" : {
+
+    },
+    "Requirement:" : {
+
+    },
+    "Requirement: %@" : {
+
+    },
+    "Requires %@ Remnants" : {
+
+    },
+    "Requires %@ total AM" : {
+
+    },
+    "Requires a Time Study" : {
+
+    },
+    "Reset" : {
+
+    },
+    "Reset\n(lose a Boost)" : {
+
+    },
+    "Reset\n(no gain)" : {
+
+    },
+    "Reset Appearance" : {
+
+    },
+    "Reset Dimensions" : {
+
+    },
+    "Reset Dimensions and Boosts to increase the power of Tickspeed upgrades" : {
+
+    },
+    "Reset to 25/25/25/25" : {
+
+    },
+    "Reset your Dimensions and Dimension Boosts to increase the power of Tickspeed upgrades" : {
+
+    },
+    "Reset your Dimensions for a boost" : {
+
+    },
+    "Resources" : {
+
+    },
+    "Respec Charged Infinity Upgrades on next Reality" : {
+
+    },
+    "Respec on\nnext Eternity" : {
+
+    },
+    "Respec on next Eternity" : {
+
+    },
+    "Respec scheduled — cancel on next Reality" : {
+
+    },
+    "Restart" : {
+
+    },
+    "Restore" : {
+
+    },
+    "Restore Backup" : {
+
+    },
+    "Restore from Backup…" : {
+
+    },
+    "Resume autobuyers" : {
+
+    },
+    "Reward:" : {
+
+    },
+    "Reward: %@" : {
+
+    },
+    "Reward: Unlock Tesseracts, which let you increase Infinity Dimension caps (see Infinity Dimension tab)." : {
+
+    },
+    "Rift effects apply even when not activated, and are based on the total amount drained." : {
+
+    },
+    "Rifts can be activated by clicking on their bars." : {
+
+    },
+    "Run" : {
+
+    },
+    "Run Rewards" : {
+
+    },
+    "Running" : {
+
+    },
+    "Running Lai'tela's Reality" : {
+
+    },
+    "S%lld" : {
+
+    },
+    "Sacrifice" : {
+
+    },
+    "Sacrifice Boosts" : {
+
+    },
+    "Sacrifice Type" : {
+
+    },
+    "Sacrifice: " : {
+
+    },
+    "Save" : {
+
+    },
+    "Save exported to clipboard" : {
+
+    },
+    "Save Game" : {
+
+    },
+    "Save imported successfully" : {
+
+    },
+    "Save Management" : {
+
+    },
+    "Save Slots" : {
+
+    },
+    "Score: " : {
+
+    },
+    "Script changes are saved automatically after a short delay. There are character limits per script and across all scripts to reduce lag — these are shown above the editor." : {
+
+    },
+    "Script name" : {
+
+    },
+    "Script name: %@" : {
+
+    },
+    "Scripts (%lld/%lld)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scripts (%1$lld/%2$lld)"
+          }
+        }
+      }
+    },
+    "Scripts can be exported to and imported from the clipboard using the buttons in the Scripts panel. Exported scripts are encoded in a text format that can be shared with others." : {
+
+    },
+    "Search help" : {
+
+    },
+    "seconds" : {
+
+    },
+    "Secret Achievement" : {
+
+    },
+    "Secret Achievements are optional and give no bonuses." : {
+
+    },
+    "Selected Glyphs will have at least" : {
+
+    },
+    "Set" : {
+
+    },
+    "Set Antimatter to 1e" : {
+
+    },
+    "Set EP to 1e" : {
+
+    },
+    "Set Eternities to" : {
+
+    },
+    "Set Infinities to 1e" : {
+
+    },
+    "Set IP to 1e" : {
+
+    },
+    "Set Relic Shards to 1e" : {
+
+    },
+    "Set RM to 1e" : {
+
+    },
+    "Set TP to 1e" : {
+
+    },
+    "Set…" : {
+
+    },
+    "Shift mode: tap to toggle lock" : {
+
+    },
+    "Shop" : {
+
+    },
+    "Show all" : {
+
+    },
+    "Show all known challenges" : {
+
+    },
+    "Show all tabs" : {
+
+    },
+    "Show altered glyph details" : {
+
+    },
+    "Show details" : {
+
+    },
+    "Show Doomed Reality effects" : {
+
+    },
+    "Show Hard V" : {
+
+    },
+    "Show me the ropes" : {
+
+    },
+    "Show the addition/empower/boost sacrifice thresholds on the Glyphs tab. Only meaningful after unlocking Altered Glyphs (Ra). Default: on." : {
+
+    },
+    "Showing bought upgrades" : {
+
+    },
+    "Showing: Alternate" : {
+
+    },
+    "Showing: Charged effects — tap an upgrade to charge it" : {
+
+    },
+    "Showing: Default" : {
+
+    },
+    "Showing: Normal effects — tap to swap to charged" : {
+
+    },
+    "Simulation" : {
+
+    },
+    "Simulation is locked to web default. Display refresh only affects how often Swift reads state — never touches game logic." : {
+
+    },
+    "Single-purchase upgrades also have requirements which, once completed, permanently unlock the ability to purchase the upgrades at any point." : {
+
+    },
+    "Singularities" : {
+
+    },
+    "Singularity gain rate: %@ per hour" : {
+
+    },
+    "Singularity Milestones" : {
+
+    },
+    "SKIP" : {
+
+    },
+    "Slot %lld deleted" : {
+
+    },
+    "Slot %lld exported" : {
+
+    },
+    "Slot is empty" : {
+
+    },
+    "Slot name" : {
+
+    },
+    "Some errors may be fixed with the additional data being imported." : {
+
+    },
+    "Sort by Effect" : {
+
+    },
+    "Sort by Level" : {
+
+    },
+    "Sort by Power" : {
+
+    },
+    "Sort by Score" : {
+
+    },
+    "Space Theorems can also be used as a Currency in the Automator." : {
+
+    },
+    "Speed Multiplier" : {
+
+    },
+    "Speed up" : {
+
+    },
+    "Speedrun Mode" : {
+
+    },
+    "Speedrun name (optional)" : {
+
+    },
+    "Speedrun started" : {
+
+    },
+    "Start" : {
+
+    },
+    "Start a new save with milestone tracking and stripped confirmations. Hard-resets your current progress." : {
+
+    },
+    "Start Lai'tela's Reality" : {
+
+    },
+    "Start New Game Here" : {
+
+    },
+    "Start playing" : {
+
+    },
+    "Start Ra's Reality" : {
+
+    },
+    "Start Run" : {
+
+    },
+    "Start Teresa's Reality" : {
+
+    },
+    "Start The Nameless Ones' Reality" : {
+
+    },
+    "Start V's\nReality" : {
+
+    },
+    "Starting a speedrun will reset your save to the beginning of the game. Some things are kept — full-game completion stats, automator scripts, and Glyph cosmetics — but otherwise it's as if you had just finished the game and chose to restart." : {
+
+    },
+    "Starts at x180 faster for 10 seconds, once per hour." : {
+
+    },
+    "STD Store" : {
+
+    },
+    "Stop" : {
+
+    },
+    "Stop Charging" : {
+
+    },
+    "Stop draining" : {
+
+    },
+    "Storing real time completely halts all production, setting game speed to 0. You can use stored real time to “amplify” a Reality, simulating repeated runs of it. Amplified Realities give all the rewards that normal Realities do." : {
+
+    },
+    "Storing real time prevents Memory Chunk generation, but Memories will still be gained normally." : {
+
+    },
+    "Study string (e.g. 11,22,32|1)" : {
+
+    },
+    "Support & Feedback" : {
+
+    },
+    "Switch" : {
+
+    },
+    "Switch between scripts or create new ones in the Scripts panel. Scripts can be renamed or deleted via long-press context menus. The Automator always keeps at least one script." : {
+
+    },
+    "Switch Slot" : {
+
+    },
+    "Switch tabs on game events" : {
+
+    },
+    "Switch to another slot first" : {
+
+    },
+    "Switch to Slot %lld? Your current slot will be saved first and remains untouched." : {
+
+    },
+    "Switch to that slot first" : {
+
+    },
+    "Switch to This Slot" : {
+
+    },
+    "Switch to this slot first to restore one of its backups." : {
+
+    },
+    "Sync now" : {
+
+    },
+    "Sync saves via iCloud" : {
+
+    },
+    "Tachyon Particles" : {
+
+    },
+    "Tachyon Particles: %@" : {
+
+    },
+    "Tap a command to see its syntax and description." : {
+
+    },
+    "Tap a node to enter." : {
+
+    },
+    "Tap glyph for actions · Hold empty slot for options" : {
+
+    },
+    "Tap here to buy your first Antimatter Dimension. Dimensions generate antimatter — and each higher tier produces the tier below it." : {
+
+    },
+    "Tap to unlock" : {
+
+    },
+    "Tap to view" : {
+
+    },
+    "Tap to view challenge" : {
+
+    },
+    "Tap two paths to set your 1st and 2nd priority." : {
+
+    },
+    "Target exceeds current level cap of %lld" : {
+
+    },
+    "Target Glyph level" : {
+
+    },
+    "Teresa Milestone" : {
+
+    },
+    "Teresa Reality reward: Glyph Sacrifice power %@" : {
+
+    },
+    "Teresa's Best Glyph Set" : {
+
+    },
+    "Thank you so much\nfor playing!" : {
+
+    },
+    "The amount shown on this milestone is a live preview of what you'd gain if you went offline right now. It reads **(Inactive)** when the conditions below aren't currently met — so closing the game in your current state would gain nothing from this milestone." : {
+
+    },
+    "The Automator allows (amongst other things) buying full Time Study Trees, entering Eternity Challenges, or starting Dilation." : {
+
+    },
+    "The Automator is split into two halves: the left side contains your script and execution controls, and the right side contains documentation, script management, and error information." : {
+
+    },
+    "The Automator runs commands at a rate that increases with your Reality count, up to a maximum of 1,000 commands per real-time second." : {
+
+    },
+    "The Automator uses a custom scripting language to perform game actions for you. Use the %@ tab to see all available commands. You can also define constants as shorthand names for values." : {
+
+    },
+    "The Black Hole can now be used to slow down time if they are both permanent." : {
+
+    },
+    "The Black Hole makes the entire game run significantly faster for a short period of time." : {
+
+    },
+    "The cost for the ×5 multiplier jumps at 1e100, 1.80e308, and 1e1300 Eternity Points." : {
+
+    },
+    "The cost increases super-exponentially after 1e4000 Eternity Points." : {
+
+    },
+    "The Errors panel shows compilation errors that prevent your script from running. Fix all errors before the Automator can execute your script." : {
+
+    },
+    "The first row of upgrades can be purchased endlessly for increasing costs and the rest are single-purchase." : {
+
+    },
+    "The first two rows can be purchased endlessly; the rest are one-time upgrades with requirements." : {
+
+    },
+    "The game is being simulated at a lower accuracy in order to quickly calculate the resources you gained while you were away." : {
+
+    },
+    "The Infinity Point multiplier becomes more expensive above %@ Infinity Points, and cannot be purchased past %@ Infinity Points." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The Infinity Point multiplier becomes more expensive above %1$@ Infinity Points, and cannot be purchased past %2$@ Infinity Points."
+          }
+        }
+      }
+    },
+    "The last equipped Glyph will be removed. Reality will be reset, but Antimatter, IP, EP, Dilation Upgrades, Time Theorems, and EC completions will be restored to when it was equipped." : {
+
+    },
+    "The Max Replicanti Galaxy upgrade can be purchased endlessly, but costs increase" : {
+
+    },
+    "The Nameless Ones" : {
+
+    },
+    "The Nameless Ones are helping you look for cracks in their Reality — they can give you some advice in %@" : {
+
+    },
+    "The Nameless Ones can give you advice in %@" : {
+
+    },
+    "The physics of this Reality do not allow the existence of Black Holes." : {
+
+    },
+    "The rarity of new Glyphs is being increased by +%@." : {
+
+    },
+    "The speed of the Automator gradually increases as you get more Realities. If unlocked right now, it would run %@ commands per real-time second." : {
+
+    },
+    "The world has collapsed due to excess antimatter." : {
+
+    },
+    "There are no more hints left." : {
+
+    },
+    "There is no additional content in Speedrun Mode." : {
+
+    },
+    "Thermal State" : {
+
+    },
+    "These are the mechanics that are disabled or weakened while you are Doomed. Some can be reacquired through Pelle Upgrades." : {
+
+    },
+    "This device and iCloud each have a save for slot %lld. Choose which one should become the canonical version." : {
+
+    },
+    "This effect is even stronger above level %@." : {
+
+    },
+    "This is being increased due to %@." : {
+
+    },
+    "This is the endgame layer. There's no going back." : {
+
+    },
+    "This is your antimatter — the core currency. Spend it on more Dimensions to grow faster and faster." : {
+
+    },
+    "This is your menu — tap an item to switch tabs, and swipe to flip through more pages of them. New tabs and features appear here as you progress, so check back as you grow." : {
+
+    },
+    "This page gives a broad overview of the Automator. Specific details can be found in the Commands tab or the How To Play entries." : {
+
+    },
+    "This permanently removes the saved Glyph loadout." : {
+
+    },
+    "This Reality can be repeated for a stronger reward based on the antimatter gained within it." : {
+
+    },
+    "This Reality seems to be resisting your efforts to complete it. So far you have done the following:" : {
+
+    },
+    "This removes every defined constant. This cannot be undone." : {
+
+    },
+    "This script has errors which need to be fixed before it can be run!" : {
+
+    },
+    "This will completely reset your game save. Are you sure?" : {
+
+    },
+    "This will completely wipe your save. All progress will be lost forever. Are you sure you want to continue?" : {
+
+    },
+    "This will create a new Automator script at the end of your list. Paste an exported script string below." : {
+
+    },
+    "This will erase your save and start over from the beginning. No speedrun-mode features will be active — confirmations, animations, and glyph RNG behave normally." : {
+
+    },
+    "This will overwrite your current save. Are you sure?" : {
+
+    },
+    "This will start a save with additional statistics tracking for when you reach certain points of the game. These will be visible at the top of the sidebar and on a dedicated Speedrun section of Statistics." : {
+
+    },
+    "Threshold score (rarity % + effect scores)" : {
+
+    },
+    "Ticks: %@ / %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ticks: %1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "Tickspeed Continuum: %@" : {
+
+    },
+    "Tickspeed Cost: %@" : {
+
+    },
+    "Tickspeed: %@" : {
+
+    },
+    "Tickspeed: %@/s | %@ faster/upgrade" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tickspeed: %1$@/s | %2$@ faster/upgrade"
+          }
+        }
+      }
+    },
+    "Time Dilation" : {
+
+    },
+    "Time Dimension\nAutobuyers" : {
+
+    },
+    "Time Dimension Autobuyers" : {
+
+    },
+    "Time in Run" : {
+
+    },
+    "Time Theorem production: %@" : {
+
+    },
+    "Time to obtain: %@" : {
+
+    },
+    "Tip: %@" : {
+
+    },
+    "To be active" : {
+
+    },
+    "Toggle all" : {
+
+    },
+    "Toggle all autobuyers" : {
+
+    },
+    "Toggle V.isFlipped (Cursed Glyph button)" : {
+
+    },
+    "Total" : {
+
+    },
+    "Total Filled: %@" : {
+
+    },
+    "Total Pet Levels: %lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total Pet Levels: %1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "Total Tachyon Galaxies: %lld" : {
+
+    },
+    "Total Tickspeed: %@ / sec" : {
+
+    },
+    "Total time to (auto-)condense: %@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total time to (auto-)condense: %1$@%2$@"
+          }
+        }
+      }
+    },
+    "Total time to condense: %@" : {
+
+    },
+    "Trigger" : {
+
+    },
+    "Triggered" : {
+
+    },
+    "Type \"%@\" below to confirm." : {
+
+    },
+    "Type \"%@\" to confirm. This is irreversible." : {
+
+    },
+    "Type directly into the text editor on the left side. The editor supports syntax highlighting for commands, currencies, numbers, and comparisons." : {
+
+    },
+    "Type the phrase to confirm" : {
+
+    },
+    "Undo" : {
+
+    },
+    "Undo Equipped Glyph" : {
+
+    },
+    "Undo Last Equipped Glyph" : {
+
+    },
+    "Unequip Glyphs on Reality" : {
+
+    },
+    "Unequip Glyphs to:" : {
+
+    },
+    "Unlock" : {
+
+    },
+    "Unlock a Secret Achievement" : {
+
+    },
+    "Unlock all Effarig shop upgrades" : {
+
+    },
+    "Unlock Lai'tela (buy ImaginaryUpgrade(15))" : {
+
+    },
+    "Unlock Replicanti" : {
+
+    },
+    "Unlock Replicanti to gain a multiplier on all Infinity Dimensions." : {
+
+    },
+    "Unlock requirement" : {
+
+    },
+    "Unlock requirement: %@" : {
+
+    },
+    "Unlock Singularities in %@." : {
+
+    },
+    "Unlock the Black Hole" : {
+
+    },
+    "Unlock the Galaxy Generator" : {
+
+    },
+    "Unlocked" : {
+
+    },
+    "Unlocked by getting %lld total Celestial Memory levels (need %lld more)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unlocked by getting %1$lld total Celestial Memory levels (need %2$lld more)."
+          }
+        }
+      }
+    },
+    "Unlocking the Black Hole also gives 10 Automator Points." : {
+
+    },
+    "Unlocks" : {
+
+    },
+    "Upcoming Glyph selection:" : {
+
+    },
+    "Update rate: %lld ms" : {
+
+    },
+    "Upload this device's save" : {
+
+    },
+    "Use iCloud save" : {
+
+    },
+    "V — The Celestial of Achievements" : {
+
+    },
+    "V-Achievements can only be completed within V's Reality, but are permanent and do not reset upon leaving and re-entering the Reality." : {
+
+    },
+    "V-Unlock Milestones" : {
+
+    },
+    "V's Reality\nis active" : {
+
+    },
+    "Value…" : {
+
+    },
+    "View Reality Glyph creation" : {
+
+    },
+    "Welcome to Infinity Dimensions" : {
+
+    },
+    "Welcome to the Automator!" : {
+
+    },
+    "What kind of fresh start?" : {
+
+    },
+    "What to expect" : {
+
+    },
+    "What you'll do" : {
+
+    },
+    "When active, Rifts consume %@ of another resource per second." : {
+
+    },
+    "When loading a preset, allow better Glyphs to substitute for the saved ones if exact matches aren't available." : {
+
+    },
+    "When loading a preset, try to match the following attributes. \"Exact\" will only equip Glyphs identical to the ones in the preset. The other settings will, loosely speaking, allow \"better\" Glyphs to be equipped in their place." : {
+
+    },
+    "When off, entering or exiting a challenge won't jump you to the Antimatter Dimensions tab." : {
+
+    },
+    "When off, time spent away from the app does not advance the simulation. Default: on." : {
+
+    },
+    "When on, active glyph effects and sacrifice totals are tinted in their glyph type's color with a soft halo. Default: on." : {
+
+    },
+    "When on, making a new Reality asks you to choose a Glyph. When off, a Glyph is chosen automatically (using your Effarig filter, or at random). Default: on." : {
+
+    },
+    "Whichever Celestial has Remembrance gains %@ Memory Chunk gain. The others gain %@ Memory Chunk gain." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Whichever Celestial has Remembrance gains %1$@ Memory Chunk gain. The others gain %2$@ Memory Chunk gain."
+          }
+        }
+      }
+    },
+    "While charging, game speed multipliers are %@, and the lost speed is converted into stored game time. Discharging the Black Hole allows you to skip forward in time. Stored game time is also used to unlock certain upgrades." : {
+
+    },
+    "While you were away for %@:" : {
+
+    },
+    "Will Import Constants" : {
+
+    },
+    "Will Skip Constants" : {
+
+    },
+    "Within each column, the upgrades must be purchased from top to bottom." : {
+
+    },
+    "Within Ra's Reality, Memory Chunks for Celestial Memories will be generated based on certain resource amounts." : {
+
+    },
+    "You also gain an additional ×8 Dark Energy." : {
+
+    },
+    "You are about to Reality" : {
+
+    },
+    "You are getting %@ antimatter per second." : {
+
+    },
+    "You are getting %@ Infinity Power per second." : {
+
+    },
+    "You are getting %@ Time Shards per second." : {
+
+    },
+    "You are inside The Nameless Ones' Reality" : {
+
+    },
+    "You can now modify the appearance of your Glyphs to look like Music Glyphs." : {
+
+    },
+    "You cannot activate more than two Rifts at once." : {
+
+    },
+    "You cannot escape a Doomed Reality!" : {
+
+    },
+    "You cannot have more than one " : {
+
+    },
+    "You cannot sacrifice Glyphs while Doomed." : {
+
+    },
+    "You gain 1 Space Theorem for each completion, allowing you to purchase Time Studies which are normally locked." : {
+
+    },
+    "You gain Automator Points from the following sources:" : {
+
+    },
+    "You have %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "You have %@ antimatter." : {
+
+    },
+    "You have %@ available Space Theorems. (Total earned: %@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@ available Space Theorems. (Total earned: %2$@)"
+          }
+        }
+      }
+    },
+    "You have %@ Dark Energy. (+%@/s)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@ Dark Energy. (+%2$@/s)"
+          }
+        }
+      }
+    },
+    "You have %@ Dark Matter (capped)." : {
+
+    },
+    "You have %@ Dark Matter. (Average: %@/s)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@ Dark Matter. (Average: %2$@/s)"
+          }
+        }
+      }
+    },
+    "You have %@ Dilated Time. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@ Dilated Time. %2$@"
+          }
+        }
+      }
+    },
+    "You have %@ Imaginary Machines." : {
+
+    },
+    "You have %@ Infinity Points" : {
+
+    },
+    "You have %@ Infinity Power," : {
+
+    },
+    "You have %@ Perk %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@ Perk %2$@."
+          }
+        }
+      }
+    },
+    "You have %@ Perk Points" : {
+
+    },
+    "You have %@ Reality Machines" : {
+
+    },
+    "You have %@ Reality Machines." : {
+
+    },
+    "You have %@ Reality Shards." : {
+
+    },
+    "You have %@ Relic Shards." : {
+
+    },
+    "You have %@ Replicanti, translated to" : {
+
+    },
+    "You have %@ Tachyon Particles." : {
+
+    },
+    "You have %@ Time Theorems. (Total: %@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@ Time Theorems. (Total: %2$@)"
+          }
+        }
+      }
+    },
+    "You have %@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$@%2$@"
+          }
+        }
+      }
+    },
+    "You have %lld / %lld Automator Points towards unlocking the Automator." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$lld / %2$lld Automator Points towards unlocking the Automator."
+          }
+        }
+      }
+    },
+    "You have %lld Perk %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have %1$lld Perk %2$@."
+          }
+        }
+      }
+    },
+    "You have %lld V-Achievements done." : {
+
+    },
+    "You have a total of " : {
+
+    },
+    "You have enough Infinity Points\nto buy a Tesseract" : {
+
+    },
+    "You have exposed a crack in the Reality:" : {
+
+    },
+    "You have not completed all Infinity Challenges yet." : {
+
+    },
+    "You have not completed all Normal Challenges yet." : {
+
+    },
+    "You have not completed Teresa's Reality yet." : {
+
+    },
+    "You have not done %lld %@ yet." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You have not done %1$lld %2$@ yet."
+          }
+        }
+      }
+    },
+    "You have not figured out what this hint means yet." : {
+
+    },
+    "You have reached the limits of Reality and cannot hold more than %@ Reality Machines." : {
+
+    },
+    "You haven't Sacrificed any Glyphs yet!" : {
+
+    },
+    "You must have %@ rows of Achievements and all of your Glyph Alchemy Resources capped to unlock Pelle, Celestial of Antimatter." : {
+
+    },
+    "You must select a Glyph in order to continue." : {
+
+    },
+    "You will gain %@ %@ and %@ Infinity %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You will gain %1$@ %2$@ and %3$@ Infinity %4$@."
+          }
+        }
+      }
+    },
+    "You will gain %@ IP on Big Crunch" : {
+
+    },
+    "You will gain %@ Relic Shards next Reality (%@/min)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You will gain %1$@ Relic Shards next Reality (%2$@/min)."
+          }
+        }
+      }
+    },
+    "You will start your next Infinity with %@." : {
+
+    },
+    "You've gained %@ Tickspeed upgrades from %@ Time Shards." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You've gained %1$@ Tickspeed upgrades from %2$@ Time Shards."
+          }
+        }
+      }
+    },
+    "You've gained %@ Tickspeed upgrades." : {
+
+    },
+    "Your Antimatter" : {
+
+    },
+    "Your current progress on this device will be replaced by the iCloud save. This can't be undone. Consider exporting your current save to clipboard first." : {
+
+    },
+    "Your First Goal" : {
+
+    },
+    "Your Machine cap is %@." : {
+
+    },
+    "Your maximum Dark Matter ever is %@, giving %@ more purchases from Continuum." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your maximum Dark Matter ever is %1$@, giving %2$@ more purchases from Continuum."
+          }
+        }
+      }
+    },
+    "Your maximum Dark Matter ever is %@." : {
+
+    },
+    "Your record: %@ antimatter" : {
+
+    },
+    "Ϟ" : {
+
+    },
+    "Ϙ" : {
+
+    }
+  },
+  "version" : "1.0"
+}
