@@ -1,0 +1,43 @@
+{
+  "roles": {
+    "1": "Creator",
+    "2": "Technical Architect",
+    "3": "Lead Developer",
+    "4": "iOS Developer",
+    "5": "iOS Tester",
+    "6": "Steam Developer",
+    "7": "Library Developer",
+    "8": "Developer",
+    "9": "Lead Design Consultant",
+    "10": "Design Consultant",
+    "11": "Writer",
+    "12": "Achievement Art",
+    "13": "Modal Maker, Lady Taker, Pie Baker",
+    "14": "Lurker Tester",
+    "count": 14
+  },
+  "people": [
+    { "name": "Hevipelle",       "name2": "Ivar Kerajärvi",            "roles": [1] },
+    { "name": "Razenpok",        "name2": "Andrei Andreev",            "roles": [2] },
+    { "name": "garnet420",       "name2": null,                        "roles": [3] },
+    { "name": "Omsi",            "name2": null,                        "roles": [3, 12] },
+    { "name": "SpectralFlame",   "name2": "Christopher Yip",           "roles": [3] },
+    { "name": "WaitingIdly",     "name2": null,                        "roles": [3, 8, 10] },
+    { "name": "Seth Howard",     "name2": null,                        "roles": [4] },
+    { "name": "Alan Witlium",    "name2": null,                        "roles": [5] },
+    { "name": "Makopaz",         "name2": "Zack Stein",                "roles": [6] },
+    { "name": "Patashu",         "name2": null,                        "roles": [7, 8] },
+    { "name": "Dan",             "name2": null,                        "roles": [8] },
+    { "name": "earth",           "name2": "Jace Royer",                "roles": [8, 13] },
+    { "name": "Hira",            "name2": null,                        "roles": [8] },
+    { "name": "IkerStream",      "name2": "Iker de Aguirre",           "roles": [8] },
+    { "name": "L4R5",            "name2": "Lars Wolf",                 "roles": [8] },
+    { "name": "Pichusuperlover", "name2": null,                        "roles": [8, 10] },
+    { "name": "realrapidjazz",   "name2": null,                        "roles": [8, 9, 11] },
+    { "name": "Scarlet",         "name2": null,                        "roles": [8] },
+    { "name": "slabdrill",       "name2": null,                        "roles": [8] },
+    { "name": "Acamaeda",        "name2": null,                        "roles": [10] },
+    { "name": "Saturnus",        "name2": null,                        "roles": [11] },
+    { "name": "Dravitar",        "name2": "Alex Henderson",            "roles": [14] }
+  ]
+}

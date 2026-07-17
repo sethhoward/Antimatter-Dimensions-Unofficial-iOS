@@ -1,0 +1,7 @@
+After your first Eternity, you unlock **Time Dimensions**. You buy them with Eternity Points; they produce **Time Shards**, which provide additional Tickspeed Upgrades. These bonus Tickspeed Upgrades don't increase in cost. Time Dimensions, Time Shards, and the Tickspeed Upgrades they grant are kept across Infinities — but reset every Eternity.
+
+Like the other dimensions, the 2nd Time Dimension produces the 1st, and so on. Like Infinity Dimensions, the *produced* amount resets to whatever you've purchased after each Eternity, but the multipliers from purchases stay.
+
+Each purchase increases the multiplier of that specific Time Dimension by **×4**. The cost multiplier between upgrades has a base value, but is increased by **×1.5** at certain EP thresholds and by **×2.2** (of the base) at a higher threshold. These increases apply retroactively, so the cost jumps when you reach those thresholds. They apply only to the first four dimensions. Beyond a third threshold, each purchase counts as four purchases for the purpose of cost increases, making prices climb much faster.
+
+Time Shards unlock further Tickspeed Upgrades by passing per-step thresholds. Each next step costs **33%** more Time Shards than the last, or **25%** with the relevant Time Study. After **300,000** free Tickspeed Upgrades, the multiplier between each successive free upgrade gradually grows — roughly **×1.35** more per **50,000** upgrades.
