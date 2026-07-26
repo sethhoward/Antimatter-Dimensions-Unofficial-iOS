@@ -58,7 +58,3 @@ Right here — this repository contains the full iOS source. See [Building & Run
 ## License
 
 Released under the [MIT License](LICENSE). This is a port of [Antimatter Dimensions](https://github.com/IvarK/AntimatterDimensionsSourceCode) by Hevipelle (IvarK), which is also MIT licensed; the original copyright notice is preserved in the [LICENSE](LICENSE) file.
-
-## Links
-
-- [Official AD App Store](https://apps.apple.com/us/app/antimatter-dimensions/id6738206800) 
